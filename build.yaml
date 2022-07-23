@@ -17,5 +17,3 @@ include:
     shield: frenzy_left
   - board: nice_nano_v2
     shield: frenzy_right
-  - board: nice_nano_v2
-    sheild: settings_reset
